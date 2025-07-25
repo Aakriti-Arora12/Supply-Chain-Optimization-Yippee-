@@ -7,6 +7,6 @@ This Power BI dashboard provides a comprehensive overview of Yippee's supply cha
 - Which zones have reported the most supply chain issues in the last 3 months?
 - How does infrastructure readiness vary across zones?
 - What is the average distance from the distribution hub for each zone?
-## Dashboard Interaction <a href="">View Dashboard</a>
+## Dashboard Interaction <a href="https://github.com/Aakriti-Arora12/Supply-Chain-Optimization-Yippee-/commit/ed08c1da116a2ef1af19ade1ca548bc36c2d0faf">View Dashboard</a>
 ## Dataset used 
 Note - The data has been extracted from Kaggle.
